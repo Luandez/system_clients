@@ -1,11 +1,11 @@
-# Sistema de Clientes em C#  
+# 🛒 Sistema de Clientes em C#  
 
 Este é um **sistema simples de gerenciamento de clientes** feito em C# usando **Console App** e **SQLite** com **Entity Framework Core**.  
 O projeto permite cadastrar, listar, editar e excluir clientes em um banco de dados local.
 
 ---
 
-## Funcionalidades
+## 🎲 Funcionalidades
 
 - Cadastrar novos clientes (nome, email e telefone)  
 - Listar todos os clientes cadastrados  
